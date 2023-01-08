@@ -16,4 +16,4 @@ Kalian brings all programs available in Kali Linux to all Debian or Ubuntu based
      sudo chmod +x kalian
  
    # Execute Kalian
-     sudo bash kalian
+     bash kalian

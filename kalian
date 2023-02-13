@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 #coded by CryptoKingYT
 #kalian
 figlet -f slant 'KALIAN' | lolcat && figlet -f digital  " Coded by CryptoKingYT" | lolcat

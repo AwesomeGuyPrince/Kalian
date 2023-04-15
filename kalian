@@ -18,10 +18,10 @@ figlet -f digital  " Downloading Keyring " | lolcat
 curl -L https://archive.kali.org/archive-key.asc | apt-key add
 sleep 2
 figlet -f digital  " Writing Sources.list " | lolcat
-echo "deb http://kali.download/kali kali-rolling main contrib non-free" | sudo tee /etc/apt/sources.list
+echo "deb http://kali.download/kali kali-rolling main contrib non-free" | sudo tee /etc/apt/sources.list.d/kali.list
 sleep 2
 figlet -f digital  " Updating Source List " | lolcat
 apt update -y
 sleep 2 
-figlet -f slant 'KALIAN' | lolcat && figlet -f digital  " Coded by CryptoKingYT" | lolcat
+figlet -f slant 'KALIAN' | lolcat && figlet -f digital  " Coded by AwesomeGuyPrince" | lolcat
 exit

@@ -7,7 +7,7 @@ Kalian brings all programs available in Kali Linux to all Debian or Ubuntu based
      sudo apt install git figlet lolcat -y
  
    # Clone Kalian 
-     git clone https://github.com/CryptoKingYT/Kalian.git
+     git clone https://github.com/AwesomeGuyPrince/Kalian.git
   
    # Change Directory
      cd Kalian 

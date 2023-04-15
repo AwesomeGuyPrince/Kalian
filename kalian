@@ -1,7 +1,7 @@
 #!/bin/bash
-#coded by CryptoKingYT
+#coded by AwesomeGuyPrince
 #kalian
-figlet -f slant 'KALIAN' | lolcat && figlet -f digital  " Coded by CryptoKingYT" | lolcat
+figlet -f slant 'KALIAN' | lolcat && figlet -f digital  " Coded by AwesomeGuyPrince" | lolcat
 
 # Init
 FILE="/tmp/out.$$"
